@@ -11,6 +11,8 @@ Acitvate venv
 CMD --> conda activate venv/
 
 README.md
+(After this try connecting to git repo)
+
 Requirements.txt
 .gitgnore
 setup.py --> To store the metadata and install the dependencies
